@@ -1,0 +1,5 @@
+venv
+.csv
+.pdf
+.sqlite
+datasets/
