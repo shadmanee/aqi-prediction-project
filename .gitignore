@@ -1,5 +1,5 @@
-venv
-.csv
-.pdf
-.sqlite
+venv/
+*.csv
+*.pdf
+*.sqlite
 datasets/
