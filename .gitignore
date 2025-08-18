@@ -3,4 +3,5 @@ venv/
 *.pdf
 *.sqlite
 *.png
+*.pkl
 datasets/
