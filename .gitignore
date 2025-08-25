@@ -1,7 +1,9 @@
 venv/
-*.csv
-*.pdf
 *.sqlite
 *.png
 *.pkl
-datasets/
+*.keras
+*.joblib
+datasets/*.csv
+models/
+ui/
